@@ -28,6 +28,22 @@ Worked on developing an NFT-gated backend system using Go, Solidity, and GETH wi
 ### EthernalTech (Mar–May 2025)
 Built applications on the Solana blockchain using Rust and the Anchor framework, with a focus on Program Derived Addresses (PDAs) and Cross-Program Invocations (CPI). Worked on the simulation and in-depth understanding of the Wormhole bridge, implementing and testing complex on-chain logic for blockchain interoperability and transaction flows.
 
+### Featured Projects
+
+- **MedVault** – **Award-winning project**, winner of **ETH Belgrade 2025 Main Track** and **Oasis Bounty**  
+  A decentralized app for secure medical record sharing between patients and doctors.  
+  Utilizes advanced cryptography with **Oasis Sapphire** and **ROFL** for on-chain encrypted storage.  
+  [View project](https://github.com/branislavstojkovic70/ETH-Belgrade-MedVault)
+
+- **0xShadow** – **Award-winning project**, second place at **Ethereum NS 2025**. Ethereum wallet using **ERC-5564 stealth addresses** for anonymous on-chain transactions.  
+  [View project](https://github.com/branislavstojkovic70/0xShadow)
+
+- **System for diagnosin lung cancer** – **Bachelor's thesis**, medical support system written in java and drools.  
+  [View project](https://github.com/branislavstojkovic70/SBNZ)
+
+---
+
+
 ## Main tech knowledge
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
