@@ -42,7 +42,7 @@ Co-developed PolkaVault, a Substrate-based multicoin treasury and token swap DAO
 - **0xShadow** – **Award-winning project**, second place at **Ethereum NS 2025**. Ethereum wallet using **ERC-5564 stealth addresses** for anonymous on-chain transactions.  
   [View project](https://github.com/branislavstojkovic70/0xShadow)
 
-- **System for diagnosin lung cancer** – **Bachelor's thesis**, medical support system written in java and drools.  
+- **System for diagnosing lung cancer** – **Bachelor's thesis**, medical support system written in java and drools.  
   [View project](https://github.com/branislavstojkovic70/SBNZ)
 
 ---
