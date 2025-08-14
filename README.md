@@ -22,11 +22,15 @@
 
 ## Experience
 
-### MVP Workshop (Oct–Feb 2024)
+### MVP Workshop (Oct–Dec 2024)
 Worked on developing an NFT-gated backend system using Go, Solidity, and GETH within the Ethereum ecosystem. Focused on wallet integration, ERC20/ERC721 token management, and smart contract development using Hardhat and Foundry.
 
 ### EthernalTech (Mar–May 2025)
 Built applications on the Solana blockchain using Rust and the Anchor framework, with a focus on Program Derived Addresses (PDAs) and Cross-Program Invocations (CPI). Worked on the simulation and in-depth understanding of the Wormhole bridge, implementing and testing complex on-chain logic for blockchain interoperability and transaction flows.
+
+### Web3 Kamp (Avg 2025)
+Participated in Web3 Kamp 2025 at Petnica Science Center, covering Ethereum, Solana, smart contracts, DAOs, blockchain forensics, ZK proofs, and blockchain node architecture.
+Co-developed PolkaVault, a Substrate-based multicoin treasury and token swap DAO for the Polkadot ecosystem, implementing on-chain governance and a Karma-based reputation system for rewarding profitable investment strategies.
 
 ### Featured Projects
 
