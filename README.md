@@ -45,7 +45,7 @@ Co-developed PolkaVault, a Substrate-based multicoin treasury and token swap DAO
 - **System for diagnosing lung cancer** – **Bachelor's thesis**, medical support system written in java and drools.  
   [View project](https://github.com/branislavstojkovic70/SBNZ)
 
-- **MultiCoint Treasury - PolkaVault** – DAO proposal voting for treassury investments.  
+- **MultiCoin Treasury - PolkaVault** – DAO proposal voting for treassury investments.  
 [View project](https://github.com/branislavstojkovic70/substrate-multicoin-treasury)
 
 ---
