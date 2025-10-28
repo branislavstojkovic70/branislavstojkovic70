@@ -32,6 +32,9 @@ Built applications on the Solana blockchain using Rust and the Anchor framework,
 Participated in Web3 Kamp 2025 at Petnica Science Center, covering Ethereum, Solana, smart contracts, DAOs, blockchain forensics, ZK proofs, and blockchain node architecture.
 Co-developed PolkaVault, a Substrate-based multicoin treasury and token swap DAO for the Polkadot ecosystem, implementing on-chain governance and a Karma-based reputation system for rewarding profitable investment strategies.
 
+### 4 Point O Labs (Oct - Present)
+Full-stack Blockchain Developer working on Solana and EVM-based DeFi systems. Building and auditing smart contracts using Anchor, Rust, and Solidity, while developing scalable dApps with NestJS and React. Involved in the full development cycle, from protocol design and backend integration to frontend user interfaces and system optimization.
+
 ### Featured Projects
 
 - **MedVault** – **Award-winning project**, winner of **ETH Belgrade 2025 Main Track** and **Oasis Bounty**  
