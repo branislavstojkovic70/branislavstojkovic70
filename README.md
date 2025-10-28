@@ -15,7 +15,7 @@
 
 ## About Me
 
-&nbsp;&nbsp;&nbsp;🔭 &nbsp;Currently pursuing a Master's degree in Software Engineering and working as a Blockchain Developer Intern\
+&nbsp;&nbsp;&nbsp;🔭 &nbsp;Currently pursuing a Master's degree in Software Engineering and working as a Blockchain Developer\
 &nbsp;&nbsp;&nbsp;💻 &nbsp;Contributed to Web3 projects like MedVault, 0xShadow, and Wormhole Bridge Simulation, as well as Web2 systems\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently learning advanced Web3 concepts including zk-SNARKs, stealth addresses (ERC-5564), and cross-chain protocols\
 &nbsp;&nbsp;&nbsp;🫀 &nbsp;Passionate about cryptography, distributed systems, protocol engineering, and building secure, scalable applications
