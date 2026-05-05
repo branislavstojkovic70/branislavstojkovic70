@@ -21,8 +21,14 @@
 &nbsp;&nbsp;&nbsp;🫀 &nbsp;Passionate about cryptography, distributed systems, protocol engineering, and building secure, scalable applications
 
 ## Experience
+### Curvy Wallet (April - Present)
+Full-stack Blockchain Developer working on privacy wallet. Building and auditing smart contracts using Anchor, Rust, while developing and consulting on backend side.
 
-### 4 Point O Labs (Oct - Present)
+### Polkadot Blockchain Academy - Protocol Builder Program (April 2026)
+Participated in the Polkadot Blockchain Academy Protocol Builder Program in Lisbon. The program covered core Polkadot development, smart contracts on PolkaVM, blockchainnode architecture, and Substrate FRAME.
+Built **DotForge** as the capstone project, a trustless private version control systemon Polkadot. Companies and teams push encrypted code to IPFS with every commit hash anchored on-chain, with no central authority and no vendor lock-in.
+
+### 4 Point O Labs (Oct 2025 - May 2026)
 Full-stack Blockchain Developer working on Solana and EVM-based DeFi systems. Building and auditing smart contracts using Anchor, Rust, and Solidity, while developing scalable dApps with NestJS and React. Involved in the full development cycle, from protocol design and backend integration to frontend user interfaces and system optimization.
 
 ### Web3 Kamp (Avg 2025)
