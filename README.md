@@ -21,14 +21,14 @@
 &nbsp;&nbsp;&nbsp;🫀 &nbsp;Passionate about cryptography, distributed systems, protocol engineering, and building secure, scalable applications
 
 ## Experience
-### Curvy Wallet (April - Present)
+### Curvy Wallet (Apr-June 2026)
 Full-stack Blockchain Developer working on privacy wallet. Building and auditing smart contracts using Anchor, Rust, while developing and consulting on backend side.
 
 ### Polkadot Blockchain Academy - Protocol Builder Program (April 2026)
 Participated in the Polkadot Blockchain Academy Protocol Builder Program in Lisbon. The program covered core Polkadot development, smart contracts on PolkaVM, blockchainnode architecture, and Substrate FRAME.
 Built **DotForge** as the capstone project, a trustless private version control systemon Polkadot. Companies and teams push encrypted code to IPFS with every commit hash anchored on-chain, with no central authority and no vendor lock-in.
 
-### 4 Point O Labs (Oct 2025 - May 2026)
+### 4 Point O Labs (Oct 2025 - June 2026)
 Full-stack Blockchain Developer working on Solana and EVM-based DeFi systems. Building and auditing smart contracts using Anchor, Rust, and Solidity, while developing scalable dApps with NestJS and React. Involved in the full development cycle, from protocol design and backend integration to frontend user interfaces and system optimization.
 
 ### Web3 Kamp (Avg 2025)
@@ -38,7 +38,7 @@ Co-developed PolkaVault, a Substrate-based multicoin treasury and token swap DAO
 ### EthernalTech (Mar–May 2025)
 Built applications on the Solana blockchain using Rust and the Anchor framework, with a focus on Program Derived Addresses (PDAs) and Cross-Program Invocations (CPI). Worked on the simulation and in-depth understanding of the Wormhole bridge, implementing and testing complex on-chain logic for blockchain interoperability and transaction flows.
 
-### MVP Workshop (Oct–Dec 2024)
+### MVP Workshop (Oct–Feb 2025)
 Worked on developing an NFT-gated backend system using Go, Solidity, and GETH within the Ethereum ecosystem. Focused on wallet integration, ERC20/ERC721 token management, and smart contract development using Hardhat and Foundry.
 
 ### Featured Projects
