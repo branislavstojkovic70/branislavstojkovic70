@@ -14,11 +14,15 @@
 
 
 ## About Me
-
-&nbsp;&nbsp;&nbsp;🔭 &nbsp;Currently pursuing a Master's degree in Software Engineering and working as a Blockchain Developer\
-&nbsp;&nbsp;&nbsp;💻 &nbsp;Contributed to Web3 projects like MedVault, 0xShadow, and Wormhole Bridge Simulation, as well as Web2 systems\
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently learning advanced Web3 concepts including zk-SNARKs, stealth addresses (ERC-5564), and cross-chain protocols\
+&nbsp;&nbsp;&nbsp;🔭 &nbsp;Master's student in Software Engineering, currently working as a Software Engineer at WeDoSoftware (enterprise systems with .NET, React, RavenDB, ElasticSearch, Azure)\
+&nbsp;&nbsp;&nbsp;⛓️ &nbsp;Background as a Blockchain Developer across multiple teams and hackathons, building on Ethereum, Solana, and Polkadot\
+&nbsp;&nbsp;&nbsp;🏆 &nbsp;Built award-winning projects including MedVault (ETH Belgrade 2025 winner) and 0xShadow (2nd place, Ethereum NS 2025)\
 &nbsp;&nbsp;&nbsp;🫀 &nbsp;Passionate about cryptography, distributed systems, protocol engineering, and building secure, scalable applications
+
+Napomene:
+- Prvi bullet sad nosi enterprise/WeDoSoftware pricu, drugi objedinjuje sve blockchain kompanije/projekte umesto da ih nabrajam pojedinacno
+- Dodao sam bullet za nagrade posebno, jer su jaka stvar na profilu
+- Ako zelis da izbacim ikonice (🔭 ⛓️ 🏆 🌱 🫀) i predjem na cist tekst bez emoji, javi - vidim da si u drugim delovima vec izbacio emoji stil pa ako zelis konzistentnost mogu to da sredim
 
 ## Experience
 ### WeDoSoftware (June 2026 - Present)
