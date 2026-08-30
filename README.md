@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;🫀 &nbsp;Passionate about cryptography, distributed systems, protocol engineering, and building secure, scalable applications
 
 ## Experience
-### WeDoSoftware (June 2026 - Present)
+### WeDoSoftware (July 2026 - Present)
 Full-stack Software Engineer working on enterprise systems using .NET, React, RavenDB, ElasticSearch, and Azure. Involved in backend development, search integration, and cloud deployment within a large-scale enterprise project. Collaborating with a team on maintaining and extending existing infrastructure and services.
 
 ### Curvy Wallet (Apr-June 2026)
